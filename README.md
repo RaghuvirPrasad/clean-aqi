@@ -1,2 +1,1 @@
-# clean-aqi
-to clean aqi app. is under building
+https://github.com/RaghuvirPrasad/clean-aqi.git
